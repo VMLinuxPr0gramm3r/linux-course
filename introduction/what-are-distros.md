@@ -1,3 +1,5 @@
+# What are distributions
+
 Since GNU/Linux was an open source source project, there were many Distributions or distros of the Priject. Which were simply based on the Linux kernel and the GNU coreutils and had their own software like.
 * Package Manager
 * Desktop Enviroment / Window Manager
